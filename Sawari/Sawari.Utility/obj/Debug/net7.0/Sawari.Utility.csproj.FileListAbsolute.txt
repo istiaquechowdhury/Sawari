@@ -1,0 +1,12 @@
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.deps.json
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.dll
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.pdb
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.AssemblyInfo.cs
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.dll
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\refint\Sawari.Utility.dll
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.pdb
+C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\ref\Sawari.Utility.dll
