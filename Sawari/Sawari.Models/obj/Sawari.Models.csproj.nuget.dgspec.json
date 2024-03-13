@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {}
+    "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
+    "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
+        "projectUniqueName": "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
         "projectName": "Sawari.Models",
-        "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
+        "projectPath": "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\obj\\",
+        "outputPath": "D:\\Sawari\\Sawari\\Sawari.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",

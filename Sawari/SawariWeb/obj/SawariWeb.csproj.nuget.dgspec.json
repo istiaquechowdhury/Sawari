@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\SawariWeb.csproj": {}
+    "D:\\Sawari\\Sawari\\SawariWeb\\SawariWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj": {
+    "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
+        "projectUniqueName": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
         "projectName": "Sawari.DataAccess",
-        "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
+        "projectPath": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\obj\\",
+        "outputPath": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
-                "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj"
+              "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
+                "projectPath": "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj"
               },
-              "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj": {
-                "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj"
+              "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj": {
+                "projectPath": "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
+    "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
+        "projectUniqueName": "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
         "projectName": "Sawari.Models",
-        "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
+        "projectPath": "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Models\\obj\\",
+        "outputPath": "D:\\Sawari\\Sawari\\Sawari.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj": {
+    "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
+        "projectUniqueName": "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
         "projectName": "Sawari.Utility",
-        "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
+        "projectPath": "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\obj\\",
+        "outputPath": "D:\\Sawari\\Sawari\\Sawari.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -196,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\SawariWeb.csproj": {
+    "D:\\Sawari\\Sawari\\SawariWeb\\SawariWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\SawariWeb.csproj",
+        "projectUniqueName": "D:\\Sawari\\Sawari\\SawariWeb\\SawariWeb.csproj",
         "projectName": "SawariWeb",
-        "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\SawariWeb.csproj",
+        "projectPath": "D:\\Sawari\\Sawari\\SawariWeb\\SawariWeb.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\obj\\",
+        "outputPath": "D:\\Sawari\\Sawari\\SawariWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,8 +220,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj"
+              "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj": {
+                "projectPath": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj"
               }
             }
           }

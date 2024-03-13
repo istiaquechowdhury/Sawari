@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
+      "projectUniqueName": "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
       "projectName": "Sawari.Utility",
-      "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
+      "projectPath": "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.Utility\\obj\\",
+      "outputPath": "D:\\Sawari\\Sawari\\Sawari.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",

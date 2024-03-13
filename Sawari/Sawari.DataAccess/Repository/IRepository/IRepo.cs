@@ -14,13 +14,11 @@ namespace Sawari.DataAccess.Repository.IRepository
 
         T Get(Expression<Func<T, bool>> filter);
 
-        T Add(T entity);    
+        void Add(T entity);   
 
-        T Update(T entity); 
+        void Remove(T entity);
 
-        T Remove(T entity);
-
-        T RemoveRange(List<T> Entities);
+        void RemoveRange(List<T> Entities);
 
 
 

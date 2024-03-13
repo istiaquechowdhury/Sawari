@@ -10,3 +10,15 @@ C:\Users\DCL\source\repos\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.dl
 C:\Users\DCL\source\repos\Sawari\Sawari.Models\obj\Debug\net7.0\refint\Sawari.Models.dll
 C:\Users\DCL\source\repos\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.pdb
 C:\Users\DCL\source\repos\Sawari\Sawari.Models\obj\Debug\net7.0\ref\Sawari.Models.dll
+D:\Sawari\Sawari\Sawari.Models\bin\Debug\net7.0\Sawari.Models.deps.json
+D:\Sawari\Sawari\Sawari.Models\bin\Debug\net7.0\Sawari.Models.dll
+D:\Sawari\Sawari\Sawari.Models\bin\Debug\net7.0\Sawari.Models.pdb
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.csproj.AssemblyReference.cache
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.AssemblyInfoInputs.cache
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.AssemblyInfo.cs
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.csproj.CoreCompileInputs.cache
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.dll
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\refint\Sawari.Models.dll
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\Sawari.Models.pdb
+D:\Sawari\Sawari\Sawari.Models\obj\Debug\net7.0\ref\Sawari.Models.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "teJpwL5Hs92XJ/MPOscC4qvzoBVCeZyomhywaKvRnkNl5JqQK/MicHhmbdmdEF6fYQRxvHEMK3h2iWWIkPq5Rg==",
+  "dgSpecHash": "y9nVDOGij9DvfIfcn2wuL4CeeoHfASMzgPcJWCzZSrr4IRphyxH6HUT57ko1wkdrjFggvJyZGr1U7Jb2c2TySg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
+  "projectFilePath": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DCL\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\DCL\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

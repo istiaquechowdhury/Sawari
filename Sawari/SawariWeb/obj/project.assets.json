@@ -11160,11 +11160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\SawariWeb.csproj",
+      "projectUniqueName": "D:\\Sawari\\Sawari\\SawariWeb\\SawariWeb.csproj",
       "projectName": "SawariWeb",
-      "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\SawariWeb.csproj",
+      "projectPath": "D:\\Sawari\\Sawari\\SawariWeb\\SawariWeb.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\SawariWeb\\obj\\",
+      "outputPath": "D:\\Sawari\\Sawari\\SawariWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11181,8 +11181,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\DCL\\source\\repos\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj"
+            "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj": {
+              "projectPath": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj"
             }
           }
         }

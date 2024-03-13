@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Sawari.DataAccess.Repository
 {
-    internal class Repository<T> : IRepo<T> where T : class
+    public class Repository<T> : IRepo<T> where T : class
     {
         private readonly ApplicationDbContext _db;
         internal DbSet<T> dbset;  
@@ -20,39 +20,41 @@ namespace Sawari.DataAccess.Repository
         public Repository(ApplicationDbContext db)
         {
             _db = db;
+            this.dbset = _db.Set<T>();
 
         }
 
-        public T Add(T entity)
+        public void Add(T entity)
         {
-            _db.dbse
+            dbset.Add(entity);  
 
            
         }
 
         public T Get(Expression<Func<T, bool>> filter)
         {
-            throw new NotImplementedException();
+            IQueryable<T> query = dbset;
+            query = query.Where(filter);
+            return query.FirstOrDefault();
         }
 
         public List<T> GetAll()
         {
-            throw new NotImplementedException();
+            IQueryable<T> list = dbset;
+
+            return list.ToList();
         }
 
-        public T Remove(T entity)
+        public void Remove(T entity)
         {
-            throw new NotImplementedException();
+            dbset.Remove(entity);   
         }
 
-        public T RemoveRange(List<T> Entities)
+        public void RemoveRange(List<T> Entities)
         {
-            throw new NotImplementedException();
+            dbset.RemoveRange(Entities);
         }
 
-        public T Update(T entity)
-        {
-            throw new NotImplementedException();
-        }
+      
     }
 }

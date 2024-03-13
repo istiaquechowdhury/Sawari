@@ -1,22 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Sawari.DataAccess.Data;
 using Sawari.Models;
+using Sawari.DataAccess.Repository.IRepository;
 
 namespace SawariWeb.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ApplicationDbContext _db;
-
-        public CategoryController(ApplicationDbContext db)
+        private readonly ICategoryRepositorycs _CategoryRepo;
+        public CategoryController(ICategoryRepositorycs db)
         {
-            _db = db;
+            _CategoryRepo = db;
         }
 
 
         public IActionResult Index()
         {
-            List<Category> obj = _db.Categories.ToList();
+            List<Category> obj = _CategoryRepo.GetAll().ToList();
             return View(obj);
         }
 
@@ -32,8 +32,8 @@ namespace SawariWeb.Controllers
         {
             if(ModelState.IsValid)
             {
-                _db.Categories.Add(obj);
-                _db.SaveChanges();
+                _CategoryRepo.Add(obj);
+                _CategoryRepo.Save();
                 TempData["success"] = "Category Created Successfully";
                 return RedirectToAction("Index");
             }
@@ -47,7 +47,7 @@ namespace SawariWeb.Controllers
                 return NotFound();  
             }
 
-            var category = _db.Categories.Find(id);
+            var category = _CategoryRepo.Get(u => u.Id == id);
 
             if(category == null) 
             {
@@ -67,8 +67,8 @@ namespace SawariWeb.Controllers
         {
             if (ModelState.IsValid)
             {
-                _db.Categories.Update(obj);
-                _db.SaveChanges();
+                _CategoryRepo.Update(obj);
+                _CategoryRepo.Save();
                 TempData["success"] = "Category Updated Successfully";
 
                 return RedirectToAction("Index");
@@ -84,7 +84,7 @@ namespace SawariWeb.Controllers
                 return NotFound();
             }
 
-            var category = _db.Categories.Find(id);
+            var category = _CategoryRepo.Get(u => u.Id == id);
 
             if (category == null)
             {
@@ -101,12 +101,12 @@ namespace SawariWeb.Controllers
         [HttpPost]
         public IActionResult Delete(Category obj)
         {
-            
 
-                 
-                _db.Categories.Remove(obj);
-                _db.SaveChanges();
-                TempData["success"] = "Category deleted Successfully";
+
+
+               _CategoryRepo.Remove(obj);
+               _CategoryRepo.Save();
+               TempData["success"] = "Category deleted Successfully";
 
                 return RedirectToAction("Index");
             

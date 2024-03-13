@@ -10,3 +10,15 @@ C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.
 C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\refint\Sawari.Utility.dll
 C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.pdb
 C:\Users\DCL\source\repos\Sawari\Sawari.Utility\obj\Debug\net7.0\ref\Sawari.Utility.dll
+D:\Sawari\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.deps.json
+D:\Sawari\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.dll
+D:\Sawari\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.pdb
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.csproj.AssemblyReference.cache
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.AssemblyInfoInputs.cache
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.AssemblyInfo.cs
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.csproj.CoreCompileInputs.cache
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.dll
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\refint\Sawari.Utility.dll
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.pdb
+D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\ref\Sawari.Utility.dll
