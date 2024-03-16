@@ -11,6 +11,6 @@ namespace Sawari.DataAccess.Repository.IRepository
     {
         void Update(Category obj);
 
-        void Save();
+       
     }
 }

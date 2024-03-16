@@ -3,37 +3,38 @@ using Sawari.DataAccess.Data;
 using Sawari.Models;
 using Sawari.DataAccess.Repository.IRepository;
 
-namespace SawariWeb.Controllers
+namespace SawariWeb.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
-        private readonly ICategoryRepositorycs _CategoryRepo;
-        public CategoryController(ICategoryRepositorycs db)
+        private readonly IUnitOfWork _UnitOFWork;
+        public CategoryController(IUnitOfWork db)
         {
-            _CategoryRepo = db;
+            _UnitOFWork = db;
         }
 
 
         public IActionResult Index()
         {
-            List<Category> obj = _CategoryRepo.GetAll().ToList();
+            List<Category> obj = _UnitOFWork.Category.GetAll().ToList();
             return View(obj);
         }
 
         public IActionResult Create()
         {
-           
+
             return View();
-           
+
         }
 
         [HttpPost]
         public IActionResult Create(Category obj)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                _CategoryRepo.Add(obj);
-                _CategoryRepo.Save();
+                _UnitOFWork.Category.Add(obj);
+                _UnitOFWork.Save();
                 TempData["success"] = "Category Created Successfully";
                 return RedirectToAction("Index");
             }
@@ -42,16 +43,16 @@ namespace SawariWeb.Controllers
         }
         public IActionResult Edit(int? id)
         {
-            if(id == null || id == 0)
+            if (id == null || id == 0)
             {
-                return NotFound();  
+                return NotFound();
             }
 
-            var category = _CategoryRepo.Get(u => u.Id == id);
+            var category = _UnitOFWork.Category.Get(u => u.Id == id);
 
-            if(category == null) 
+            if (category == null)
             {
-                NotFound(); 
+                NotFound();
             }
             return View(category);
 
@@ -67,8 +68,8 @@ namespace SawariWeb.Controllers
         {
             if (ModelState.IsValid)
             {
-                _CategoryRepo.Update(obj);
-                _CategoryRepo.Save();
+                _UnitOFWork.Category.Update(obj);
+                _UnitOFWork.Save();
                 TempData["success"] = "Category Updated Successfully";
 
                 return RedirectToAction("Index");
@@ -84,7 +85,7 @@ namespace SawariWeb.Controllers
                 return NotFound();
             }
 
-            var category = _CategoryRepo.Get(u => u.Id == id);
+            var category = _UnitOFWork.Category.Get(u => u.Id == id);
 
             if (category == null)
             {
@@ -104,13 +105,13 @@ namespace SawariWeb.Controllers
 
 
 
-               _CategoryRepo.Remove(obj);
-               _CategoryRepo.Save();
-               TempData["success"] = "Category deleted Successfully";
+            _UnitOFWork.Category.Remove(obj);
+            _UnitOFWork.Save();
+            TempData["success"] = "Category deleted Successfully";
 
-                return RedirectToAction("Index");
-            
-            
+            return RedirectToAction("Index");
+
+
 
         }
     }

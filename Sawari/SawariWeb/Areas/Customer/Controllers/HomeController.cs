@@ -2,8 +2,9 @@
 using Sawari.Models;
 using System.Diagnostics;
 
-namespace SawariWeb.Controllers
+namespace SawariWeb.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
