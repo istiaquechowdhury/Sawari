@@ -2,6 +2,7 @@
 using Sawari.DataAccess.Data;
 using Sawari.Models;
 using Sawari.DataAccess.Repository.IRepository;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace SawariWeb.Areas.Admin.Controllers
 {
@@ -23,6 +24,17 @@ namespace SawariWeb.Areas.Admin.Controllers
 
         public IActionResult Create()
         {
+            List<SelectListItem> Category = _UnitOFWork.Category.GetAll().Select(u => new SelectListItem
+            {
+                Text = u.Name,
+                Value = u.Id.ToString()
+            })
+            .ToList();
+
+            ViewBag.Category = Category;    
+          
+
+
 
             return View();
 
