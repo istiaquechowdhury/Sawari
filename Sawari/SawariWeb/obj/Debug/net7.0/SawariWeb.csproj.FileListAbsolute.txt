@@ -510,3 +510,8 @@ D:\Sawari\Sawari\SawariWeb\obj\Debug\net7.0\refint\SawariWeb.dll
 D:\Sawari\Sawari\SawariWeb\obj\Debug\net7.0\SawariWeb.pdb
 D:\Sawari\Sawari\SawariWeb\obj\Debug\net7.0\SawariWeb.genruntimeconfig.cache
 D:\Sawari\Sawari\SawariWeb\obj\Debug\net7.0\ref\SawariWeb.dll
+D:\Sawari\Sawari\SawariWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Sawari\Sawari\SawariWeb\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Sawari\Sawari\SawariWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sawari\Sawari\SawariWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Sawari\Sawari\SawariWeb\obj\Debug\net7.0\SawariWeb.MvcApplicationPartsAssemblyInfo.cs

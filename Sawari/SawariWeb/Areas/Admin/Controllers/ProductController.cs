@@ -31,26 +31,51 @@ namespace SawariWeb.Areas.Admin.Controllers
             })
             .ToList();
 
-            ViewBag.Category = Category;    
-          
+            ProductVM productVM = new()
+            {
+                CategoryList = Category,
+                Product = new Product()
+
+            };
+
+            
 
 
 
-            return View();
+            return View(productVM);
 
         }
 
         [HttpPost]
-        public IActionResult Create(Product obj)
+        public IActionResult Create(ProductVM productVM)
         {
             if (ModelState.IsValid)
             {
-                _UnitOFWork.Product.Add(obj);
+                _UnitOFWork.Product.Add(productVM.Product);
                 _UnitOFWork.Save();
                 TempData["success"] = "Product Created Successfully";
                 return RedirectToAction("Index");
             }
-            return View();
+            else
+            {
+
+                List<SelectListItem> Category = _UnitOFWork.Category.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                })
+                .ToList();
+
+               
+                productVM.CategoryList = Category;
+
+
+                return View(productVM);
+
+
+
+            }
+           
 
         }
         public IActionResult Edit(int? id)
