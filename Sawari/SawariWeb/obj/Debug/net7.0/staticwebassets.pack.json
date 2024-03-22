@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\SawariWeb.bundle.scp.css"
     },
     {
+      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\27e5f6a8-33ed-46a2-be36-783661d52f70.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\27e5f6a8-33ed-46a2-be36-783661d52f70.jpg"
+    },
+    {
+      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\b23a64bd-4613-4c21-a71e-be43a5af9be0.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b23a64bd-4613-4c21-a71e-be43a5af9be0.jpg"
+    },
+    {
+      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\d515eaa2-c0f5-4eb4-8be3-848656db309a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d515eaa2-c0f5-4eb4-8be3-848656db309a.jpg"
+    },
+    {
+      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\e0109e22-1de6-4ce0-9979-51f5484b0121.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\e0109e22-1de6-4ce0-9979-51f5484b0121.jpg"
+    },
+    {
       "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
