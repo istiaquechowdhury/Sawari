@@ -20,7 +20,27 @@ namespace Sawari.DataAccess.Repository
 
         public void Update(Product product)
         {
-            _db.Products.Update(product);   
+            var ProductObj = _db.Products.FirstOrDefault(u => u.Id == product.Id);  
+            
+            if (ProductObj != null)
+            {
+                ProductObj.Title = product.Title;   
+                ProductObj.ISBN = product.ISBN;
+                ProductObj.Description = product.Description;
+                ProductObj.Price = product.Price;
+                ProductObj.ListPrice = product.ListPrice;
+                ProductObj.Price50 = product.Price50;
+                ProductObj.Price100 = product.Price100;
+                ProductObj.Author = product.Author; 
+                ProductObj.CategoryId = product.CategoryId;
+
+                if(product.ImageUrl != null)
+                {
+                    ProductObj.ImageUrl = product.ImageUrl;
+                }
+
+
+            }
         }
     }
 }
