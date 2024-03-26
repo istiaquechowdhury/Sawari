@@ -2,6 +2,7 @@
 using Microsoft.Identity.Client;
 using Sawari.DataAccess.Data;
 using Sawari.DataAccess.Repository.IRepository;
+using Sawari.Models;
 using System;
 using System.Collections.Generic;
 using System.Drawing.Text;
@@ -21,6 +22,7 @@ namespace Sawari.DataAccess.Repository
         {
             _db = db;
             this.dbset = _db.Set<T>();
+            _db.Products.Include(u => u.Category).Include(u => u.CategoryId);
 
         }
 
@@ -31,16 +33,34 @@ namespace Sawari.DataAccess.Repository
            
         }
 
-        public T Get(Expression<Func<T, bool>> filter)
+        public T Get(Expression<Func<T, bool>> filter, string? includeproperties = null)
         {
             IQueryable<T> query = dbset;
+            if (!string.IsNullOrEmpty(includeproperties))
+            {
+                foreach (var property in includeproperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(property);
+
+                }
+            }
             query = query.Where(filter);
             return query.FirstOrDefault();
         }
 
-        public List<T> GetAll()
+        public List<T> GetAll(string? includeproperties = null)
         {
             IQueryable<T> list = dbset;
+
+            if(!string.IsNullOrEmpty(includeproperties))
+            {
+                foreach(var property in includeproperties.Split(new char[] { ',' },StringSplitOptions.RemoveEmptyEntries))
+                {
+                    list = list.Include(property);
+
+                }
+            }
+            
 
             return list.ToList();
         }

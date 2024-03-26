@@ -10,9 +10,9 @@ namespace Sawari.DataAccess.Repository.IRepository
     public interface IRepo<T> where T : class
     {
         //T-Category
-        List<T> GetAll();
+        List<T> GetAll(string? includeproperties = null);
 
-        T Get(Expression<Func<T, bool>> filter);
+        T Get(Expression<Func<T, bool>> filter, string? includeproperties = null);
 
         void Add(T entity);   
 
