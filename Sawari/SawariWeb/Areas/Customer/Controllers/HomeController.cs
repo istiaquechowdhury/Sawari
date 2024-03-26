@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata;
+using Sawari.DataAccess.Repository.IRepository;
 using Sawari.Models;
 using System.Diagnostics;
 
@@ -8,15 +10,18 @@ namespace SawariWeb.Areas.Customer.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IUnitOfWork _unitOfWork;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IUnitOfWork unitOfWork)
         {
             _logger = logger;
+            _unitOfWork = unitOfWork;
         }
 
         public IActionResult Index()
         {
-            return View();
+           List<Product> products = _unitOfWork.Product.GetAll(includeproperties:"Category").ToList();
+           return View(products);
         }
 
         public IActionResult Privacy()
