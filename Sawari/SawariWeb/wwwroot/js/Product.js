@@ -18,7 +18,7 @@ $(document).ready(function () {
                 'render': function (data) {
                     return `<div class="w-75 btn-group" role="group">
                     <a href="/Admin/Product/Upsert?id=${data}" class="btn btn-primary mx-2"><i class="fa-solid fa-pen-to-square"></i>Edit</a>
-                    <a onClick=Delete('/Admin/Product/Delete/${data}') class="btn btn-danger mx-2"><i class="fa-solid fa-pen-to-square"></i>Delete</a>
+                    <a onClick=Delete('/Admin/Product/Delete/${data}') class="btn btn-danger mx-2"><i class="fa-solid fa-trash"></i>Delete</a>
                     </div>`
                 },
                  "width": "25%" 

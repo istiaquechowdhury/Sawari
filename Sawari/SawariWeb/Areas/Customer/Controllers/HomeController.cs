@@ -24,6 +24,11 @@ namespace SawariWeb.Areas.Customer.Controllers
            return View(products);
         }
 
+        public IActionResult Details(int? id)
+        {
+            var Product = _unitOfWork.Product.Get(u=> u.Id==id,includeproperties: "Category");
+            return View(Product);
+        }
         public IActionResult Privacy()
         {
             return View();
