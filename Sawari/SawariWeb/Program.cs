@@ -1,8 +1,10 @@
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Sawari.DataAccess.Data;
 using Sawari.DataAccess.Repository;
 using Sawari.DataAccess.Repository.IRepository;
+using Sawari.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,8 +13,18 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>
     (options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<ApplicationDbContext>();
+
+
+builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = $"/Identity/Account/Login";
+    options.LogoutPath = $"/Identity/Account/Logut";
+    options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
+
+});
 builder.Services.AddRazorPages();
+builder.Services.AddScoped<IEmailSender,EmailSender>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 

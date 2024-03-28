@@ -2,10 +2,13 @@
 using Sawari.DataAccess.Data;
 using Sawari.Models;
 using Sawari.DataAccess.Repository.IRepository;
+using Microsoft.AspNetCore.Authorization;
+using Sawari.Utility;
 
 namespace SawariWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles =SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _UnitOFWork;
