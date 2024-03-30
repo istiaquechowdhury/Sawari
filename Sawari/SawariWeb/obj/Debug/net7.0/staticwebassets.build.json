@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9963BQyuupDWxhKTYi1Bhs7d36KuRwwtEEzFIro361c=",
+  "Hash": "jJakgOXxd1R4RTQza11srXofWq+vqRN2hGRFpk3MZBU=",
   "Source": "SawariWeb",
   "BasePath": "_content/SawariWeb",
   "Mode": "Default",
@@ -1139,23 +1139,6 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\27e5f6a8-33ed-46a2-be36-783661d52f70.jpg"
     },
     {
-      "Identity": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\2ab28d48-a87e-4f98-bca5-a90d92878e65.jpg",
-      "SourceId": "SawariWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\",
-      "BasePath": "_content/SawariWeb",
-      "RelativePath": "Images/Product/2ab28d48-a87e-4f98-bca5-a90d92878e65.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\2ab28d48-a87e-4f98-bca5-a90d92878e65.jpg"
-    },
-    {
       "Identity": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\4440468e-3bb6-452e-84a0-828778eaa77a.jpg",
       "SourceId": "SawariWeb",
       "SourceType": "Discovered",
@@ -1188,23 +1171,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Product\\619f1a1a-4130-40cf-a820-542e7c86f80f.jpg"
-    },
-    {
-      "Identity": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\67ee3bbc-b995-4577-b9d0-b599a422c72c.jpg",
-      "SourceId": "SawariWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\",
-      "BasePath": "_content/SawariWeb",
-      "RelativePath": "Images/Product/67ee3bbc-b995-4577-b9d0-b599a422c72c.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\67ee3bbc-b995-4577-b9d0-b599a422c72c.jpg"
     },
     {
       "Identity": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\93903f3f-2322-445f-bad9-15db97b35afa.jpg",
@@ -1256,23 +1222,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Product\\a289c5ed-4901-4cd8-8352-ec5ebd5e2021.jpg"
-    },
-    {
-      "Identity": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\a7632b8f-8450-459b-9871-2b1e28d634aa.jpg",
-      "SourceId": "SawariWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\",
-      "BasePath": "_content/SawariWeb",
-      "RelativePath": "Images/Product/a7632b8f-8450-459b-9871-2b1e28d634aa.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\a7632b8f-8450-459b-9871-2b1e28d634aa.jpg"
     },
     {
       "Identity": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\aca76e6f-a761-4afe-8355-2225fa681bb6.jpg",
