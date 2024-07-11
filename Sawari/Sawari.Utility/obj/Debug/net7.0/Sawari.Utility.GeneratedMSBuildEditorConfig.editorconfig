@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sawari.Utility
-build_property.ProjectDir = D:\Sawari\Sawari\Sawari.Utility\
+build_property.ProjectDir = E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

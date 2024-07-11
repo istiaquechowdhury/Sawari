@@ -1,299 +1,299 @@
 {
   "Files": [
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SawariWeb.bundle.scp.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SawariWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\SawariWeb.bundle.scp.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\10b2fa8b-47b9-4ae0-a9f1-2b39eaaa6138.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\10b2fa8b-47b9-4ae0-a9f1-2b39eaaa6138.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\10b2fa8b-47b9-4ae0-a9f1-2b39eaaa6138.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\27e5f6a8-33ed-46a2-be36-783661d52f70.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\27e5f6a8-33ed-46a2-be36-783661d52f70.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\27e5f6a8-33ed-46a2-be36-783661d52f70.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\4440468e-3bb6-452e-84a0-828778eaa77a.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\4440468e-3bb6-452e-84a0-828778eaa77a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\4440468e-3bb6-452e-84a0-828778eaa77a.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\619f1a1a-4130-40cf-a820-542e7c86f80f.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\619f1a1a-4130-40cf-a820-542e7c86f80f.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\619f1a1a-4130-40cf-a820-542e7c86f80f.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\93903f3f-2322-445f-bad9-15db97b35afa.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\93903f3f-2322-445f-bad9-15db97b35afa.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\93903f3f-2322-445f-bad9-15db97b35afa.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\99cd2afc-1be0-4b92-9847-188079b603fa.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\99cd2afc-1be0-4b92-9847-188079b603fa.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\99cd2afc-1be0-4b92-9847-188079b603fa.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\a289c5ed-4901-4cd8-8352-ec5ebd5e2021.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\a289c5ed-4901-4cd8-8352-ec5ebd5e2021.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\a289c5ed-4901-4cd8-8352-ec5ebd5e2021.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\aca76e6f-a761-4afe-8355-2225fa681bb6.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\aca76e6f-a761-4afe-8355-2225fa681bb6.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\aca76e6f-a761-4afe-8355-2225fa681bb6.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\d515eaa2-c0f5-4eb4-8be3-848656db309a.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\d515eaa2-c0f5-4eb4-8be3-848656db309a.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\d515eaa2-c0f5-4eb4-8be3-848656db309a.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\e0109e22-1de6-4ce0-9979-51f5484b0121.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\e0109e22-1de6-4ce0-9979-51f5484b0121.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\e0109e22-1de6-4ce0-9979-51f5484b0121.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\f38f3c7d-218b-4501-b0a0-a874c6c304fb.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\f38f3c7d-218b-4501-b0a0-a874c6c304fb.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\f38f3c7d-218b-4501-b0a0-a874c6c304fb.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\ff2947f7-514f-49a3-b506-1fb4be1416d1.jpg",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\Images\\Product\\ff2947f7-514f-49a3-b506-1fb4be1416d1.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\ff2947f7-514f-49a3-b506-1fb4be1416d1.jpg"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\css\\site.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\favicon.ico",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\js\\Product.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\js\\Product.js",
       "PackagePath": "staticwebassets\\js\\Product.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\js\\site.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Aspnet-B10\\Sawari\\Sawari\\SawariWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

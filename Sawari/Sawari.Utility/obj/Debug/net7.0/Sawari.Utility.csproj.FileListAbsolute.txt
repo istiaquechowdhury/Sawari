@@ -22,3 +22,16 @@ D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.dll
 D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\refint\Sawari.Utility.dll
 D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.pdb
 D:\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\ref\Sawari.Utility.dll
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.deps.json
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.dll
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\bin\Debug\net7.0\Sawari.Utility.pdb
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.csproj.AssemblyReference.cache
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.AssemblyInfoInputs.cache
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.AssemblyInfo.cs
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.csproj.CoreCompileInputs.cache
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.sourcelink.json
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.dll
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\refint\Sawari.Utility.dll
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\Sawari.Utility.pdb
+E:\Aspnet-B10\Sawari\Sawari\Sawari.Utility\obj\Debug\net7.0\ref\Sawari.Utility.dll

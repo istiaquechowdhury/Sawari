@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SawariWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aba20e470052c6e263c799480b1bfd84f68bcd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SawariWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SawariWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

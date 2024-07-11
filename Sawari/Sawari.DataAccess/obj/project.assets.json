@@ -12854,19 +12854,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DCL\\.nuget\\packages\\": {}
+    "C:\\Users\\istia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
+      "projectUniqueName": "E:\\Aspnet-B10\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
       "projectName": "Sawari.DataAccess",
-      "projectPath": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "D:\\Sawari\\Sawari\\Sawari.DataAccess\\obj\\",
+      "projectPath": "E:\\Aspnet-B10\\Sawari\\Sawari\\Sawari.DataAccess\\Sawari.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\istia\\.nuget\\packages\\",
+      "outputPath": "E:\\Aspnet-B10\\Sawari\\Sawari\\Sawari.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\istia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12874,17 +12874,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
-              "projectPath": "D:\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj"
+            "E:\\Aspnet-B10\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj": {
+              "projectPath": "E:\\Aspnet-B10\\Sawari\\Sawari\\Sawari.Models\\Sawari.Models.csproj"
             },
-            "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj": {
-              "projectPath": "D:\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj"
+            "E:\\Aspnet-B10\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj": {
+              "projectPath": "E:\\Aspnet-B10\\Sawari\\Sawari\\Sawari.Utility\\Sawari.Utility.csproj"
             }
           }
         }
@@ -12893,6 +12894,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -12938,7 +12944,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
